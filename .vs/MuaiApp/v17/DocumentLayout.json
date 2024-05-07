@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Maui Apps\\MuaiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\pages\\homepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\models\\clasificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\pages\\categoriapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\pages\\categoriapage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18EBBB4-7858-4056-8FD7-8B217D90AA95}|ApiConsumer\\ApiConsumer.csproj|c:\\maui apps\\muaiapp\\apiconsumer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18EBBB4-7858-4056-8FD7-8B217D90AA95}|ApiConsumer\\ApiConsumer.csproj|solutionrelative:apiconsumer\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\pages\\categoriapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\pages\\categoriapage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|c:\\maui apps\\muaiapp\\muaiapp\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35805023-8F87-442E-98D4-B2EE9C99BC5D}|MuaiApp\\MuaiApp.csproj|solutionrelative:muaiapp\\pages\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MuaiApp\\App.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\App.xaml.cs",
+              "RelativeToolTip": "MuaiApp\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:59:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MuaiApp\\Models\\Producto.cs",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Models\\Producto.cs",
+              "RelativeToolTip": "MuaiApp\\Models\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:56:53.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clasificacion.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Models\\Clasificacion.cs",
+              "RelativeDocumentMoniker": "MuaiApp\\Models\\Clasificacion.cs",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Models\\Clasificacion.cs",
+              "RelativeToolTip": "MuaiApp\\Models\\Clasificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:56:37.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\ApiConsumer\\Crud.cs",
+              "RelativeDocumentMoniker": "ApiConsumer\\Crud.cs",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\ApiConsumer\\Crud.cs",
+              "RelativeToolTip": "ApiConsumer\\Crud.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:54:29.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaPage.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\CategoriaPage.xaml.cs",
+              "RelativeDocumentMoniker": "MuaiApp\\Pages\\CategoriaPage.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\CategoriaPage.xaml.cs",
+              "RelativeToolTip": "MuaiApp\\Pages\\CategoriaPage.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:53:57.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaPage.xaml",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\CategoriaPage.xaml",
+              "RelativeDocumentMoniker": "MuaiApp\\Pages\\CategoriaPage.xaml",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\CategoriaPage.xaml",
+              "RelativeToolTip": "MuaiApp\\Pages\\CategoriaPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T15:53:45.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "MuaiApp\\Pages\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\HomePage.xaml.cs",
+              "RelativeToolTip": "MuaiApp\\Pages\\HomePage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T15:53:28.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\HomePage.xaml",
+              "RelativeDocumentMoniker": "MuaiApp\\Pages\\HomePage.xaml",
+              "ToolTip": "C:\\Maui Apps\\MuaiApp\\MuaiApp\\Pages\\HomePage.xaml",
+              "RelativeToolTip": "MuaiApp\\Pages\\HomePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-07T15:53:02.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
